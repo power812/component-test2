@@ -1,0 +1,18 @@
+{
+  "projectName": "component-test2",
+  "projectVersion": "1.0.0",
+  "npmName": "@power-cli/template",
+  "description": "fdfdf",
+  "className": "component-test2",
+  "version": "1.0.0",
+  "BASE_URL": "./",
+  "htmlWebpackPlugin": {
+    "options": {
+      "title": "@power-cli/template"
+    }
+  },
+  "name": "component-test2",
+  "buildPath": "dist",
+  "examplePath": "examples",
+  "npmVersion": "^1.0.30"
+}
